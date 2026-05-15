@@ -1,5 +1,0 @@
-venv/
-chroma_hr_policy_db/
-*.env
-__pycache__/
-.ipynb_checkpoints/
